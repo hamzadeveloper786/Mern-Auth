@@ -1,0 +1,13 @@
+div > div.dropdown{
+    float: right;
+}
+div#dropDown > button.drop-down > p#p{
+    font-size: xx-large;
+}
+div.info{
+    display: inline-block;
+}
+div.info > h3{
+    color: darkmagenta;
+    margin: 0.5em;
+}
